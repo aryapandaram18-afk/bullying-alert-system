@@ -45,7 +45,7 @@ The user enters a username and message.
 The system checks the message for bullying-related keywords.
 
 If bullying is detected:
-The message is highlighted in red in the chat
-An admin alert popup appears
-The incident is logged automatically
+The message is highlighted in red in the chat,
+An admin alert popup appears,
+The incident is logged automatically,
 Chat history is stored and restored on startup for continuity.
