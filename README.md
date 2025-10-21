@@ -9,11 +9,17 @@ All chat history and bullying incidents are logged automatically for review by a
 💡 Key Features:
 
 ✅ Real-time chat monitoring
+
 ✅ Keyword-based bullying detection (customizable keyword list)
+
 ✅ Automatic logging of chat messages and bullying incidents
+
 ✅ Separate Admin Console to monitor alerts live
+
 ✅ Chat history restoration on startup
+
 ✅ Interactive and user-friendly GUI built with Tkinter
+
 ✅ Alert notifications for detected bullying messages
 
 ⚙️ Technologies Used:
