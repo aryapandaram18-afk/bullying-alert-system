@@ -25,19 +25,25 @@ All chat history and bullying incidents are logged automatically for review by a
 ⚙️ Technologies Used:
 
 Python 3
+
 Tkinter (GUI library)
+
 Regex (for keyword detection)
+
 Datetime & OS modules (for logging & file management)
 
 📁 Auto-generated Files:
 
 chat_history.log — Records all user messages
+
 bullying_incidents.log — Records detected bullying messages
 
 🚀 How It Works:
 
 The user enters a username and message.
+
 The system checks the message for bullying-related keywords.
+
 If bullying is detected:
 The message is highlighted in red in the chat
 An admin alert popup appears
